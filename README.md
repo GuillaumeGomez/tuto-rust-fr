@@ -1,4 +1,4 @@
-![Rust logo](http://blog.guillaume-gomez.fr/blog/rust-logo-blk.svg)
+![Rust logo](https://blog.guillaume-gomez.fr/blog/rust-logo-blk.svg)
 
 # Tutoriel Rust
 
