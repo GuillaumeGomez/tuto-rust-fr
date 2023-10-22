@@ -4,7 +4,7 @@
 
 <div class="paper-book">
 
-Une version papier de ce tutoriel est disponible chez [dunod](https://www.dunod.com/sciences-techniques/apprendre-programmer-en-rust).
+Une version papier de ce tutoriel est disponible chez <a href="https://www.dunod.com/sciences-techniques/apprendre-programmer-en-rust">dunod</a>.
 
 </div>
 
